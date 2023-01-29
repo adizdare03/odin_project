@@ -1,0 +1,36 @@
+* {
+    width: fit-content;
+}
+
+.odd {
+    background-color: rgb(255, 167, 167);
+    font-family: verdana, "DejaVu Sans", sans-serif;
+}
+
+#two {
+    color: #00f;
+    font-size: 36px;
+}
+
+.afs {
+    font-size: 24px;
+}
+
+#four {
+    background-color: hsl(120, 100%, 75%);
+    font-weight: bold;
+}
+
+.first {
+    background-color: black;
+    color: red;
+}
+
+.second {
+    background-color: yellow;
+}
+
+.first, .second {
+    font-size: 28px;
+    font-family: Helvetica, Times New Roman, sans-serif;
+}
